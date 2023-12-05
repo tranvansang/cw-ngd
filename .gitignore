@@ -1,0 +1,10 @@
+.idea/
+/venv/
+
+/data/*
+!/data/.keep
+
+/logs/*
+!/logs/.keep
+
+__pycache__/
